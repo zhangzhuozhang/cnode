@@ -1,0 +1,10 @@
+#num li a{
+    font-size: 13px;
+    text-align: center;
+    float: left;
+    list-style: none;
+    width:20px;
+    height: 20px;
+    border:0.5px solid rgb(182, 176, 176);
+    margin:2px;
+}

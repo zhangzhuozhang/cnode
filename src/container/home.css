@@ -1,0 +1,16 @@
+.shou{
+    background-color:#f6f6f6;
+    height:20px;
+    padding:10px;
+}
+.shou button{
+    padding:3px 4px;
+    margin:0 10px;
+    border:0;
+    font-size: 14px;
+    background-color:#f6f6f6;
+}
+.shou button a{
+    color:#80bd01;
+    text-decoration:none;
+}
